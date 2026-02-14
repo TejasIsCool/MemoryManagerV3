@@ -1,3 +1,5 @@
+# MOD DOES NOT WORK, MAKING IN PROGRESS
+
 # Stonecutter Mod Template
 
 A multi-platform Minecraft mod template for **Fabric** and **NeoForge**,
